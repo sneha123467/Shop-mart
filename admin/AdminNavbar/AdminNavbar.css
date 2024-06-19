@@ -1,0 +1,17 @@
+.admin-navbar{
+    height: 60px;
+    box-shadow: 0 1px 3px -2px black;
+}
+
+.admin-nav-menu{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 70px;
+    color: #626262;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
